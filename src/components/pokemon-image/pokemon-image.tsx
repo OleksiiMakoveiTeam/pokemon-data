@@ -13,7 +13,7 @@ export const PokemonImage = ({ pokemon }: { pokemon?: Pokemon }) => {
             string,
             { front_default?: string }
           >
-        )["official-artwork"]?.front_default ||
+        )?.["official-artwork"]?.front_default ||
         `${URL_CONFIG["official-artwork"]}/${pokemon.id}.png`
       }
       alt={pokemon.name}
