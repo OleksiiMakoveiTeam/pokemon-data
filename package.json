@@ -5,7 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "start": "tsc -b && vite build && vite preview",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "jest --config ./jest.config.ts",
