@@ -7,7 +7,8 @@
     "searchDescription": "Search for a Pokémon by name or using its National Pokédex number.",
     "generalError": "An error occurred while fetching the data. Please try again later.",
     "explore": "Explore the world of pokemons",
-    "loadingMessage": "Loading..."
+    "loadingMessage": "Loading...",
+    "clearSearch": "Clear search"
   },
   "SinglePokemonPage": {
     "pokemonNotFound": "No Pokémon found",
