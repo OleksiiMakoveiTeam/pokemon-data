@@ -1,0 +1,32 @@
+{
+  "PokedexPage": {
+    "pokedex": "Pokédex",
+    "search": "Search",
+    "searchPlaceholder": "Search Pokémon",
+    "nameOrNumber": "Name or Number",
+    "searchDescription": "Search for a Pokémon by name or using its National Pokédex number.",
+    "generalError": "An error occurred while fetching the data. Please try again later.",
+    "explore": "Explore the world of pokemons",
+    "loadingMessage": "Loading..."
+  },
+  "SinglePokemonPage": {
+    "pokemonNotFound": "No Pokémon found",
+    "loadingMessage": "Loading..."
+  },
+  "PokemonDescription": {
+    "name": "Name",
+    "height": "Height",
+    "weight": "Weight"
+  },
+  "PokemonEvolutions": {
+    "evolutions": "Evolutions",
+    "noEvolutions": "There are no evolutions found"
+  },
+  "PokemonType": {
+    "type": "Type",
+    "types": "Types",
+    "noTypes": "No types found",
+    "weaknesses": "Weaknesses",
+    "noWeaknesses": "No weaknesses found"
+  }
+}

@@ -1,0 +1,3914 @@
+[
+  {
+    "label": "bulbasaur"
+  },
+  {
+    "label": "ivysaur"
+  },
+  {
+    "label": "venusaur"
+  },
+  {
+    "label": "charmander"
+  },
+  {
+    "label": "charmeleon"
+  },
+  {
+    "label": "charizard"
+  },
+  {
+    "label": "squirtle"
+  },
+  {
+    "label": "wartortle"
+  },
+  {
+    "label": "blastoise"
+  },
+  {
+    "label": "caterpie"
+  },
+  {
+    "label": "metapod"
+  },
+  {
+    "label": "butterfree"
+  },
+  {
+    "label": "weedle"
+  },
+  {
+    "label": "kakuna"
+  },
+  {
+    "label": "beedrill"
+  },
+  {
+    "label": "pidgey"
+  },
+  {
+    "label": "pidgeotto"
+  },
+  {
+    "label": "pidgeot"
+  },
+  {
+    "label": "rattata"
+  },
+  {
+    "label": "raticate"
+  },
+  {
+    "label": "spearow"
+  },
+  {
+    "label": "fearow"
+  },
+  {
+    "label": "ekans"
+  },
+  {
+    "label": "arbok"
+  },
+  {
+    "label": "pikachu"
+  },
+  {
+    "label": "raichu"
+  },
+  {
+    "label": "sandshrew"
+  },
+  {
+    "label": "sandslash"
+  },
+  {
+    "label": "nidoran-f"
+  },
+  {
+    "label": "nidorina"
+  },
+  {
+    "label": "nidoqueen"
+  },
+  {
+    "label": "nidoran-m"
+  },
+  {
+    "label": "nidorino"
+  },
+  {
+    "label": "nidoking"
+  },
+  {
+    "label": "clefairy"
+  },
+  {
+    "label": "clefable"
+  },
+  {
+    "label": "vulpix"
+  },
+  {
+    "label": "ninetales"
+  },
+  {
+    "label": "jigglypuff"
+  },
+  {
+    "label": "wigglytuff"
+  },
+  {
+    "label": "zubat"
+  },
+  {
+    "label": "golbat"
+  },
+  {
+    "label": "oddish"
+  },
+  {
+    "label": "gloom"
+  },
+  {
+    "label": "vileplume"
+  },
+  {
+    "label": "paras"
+  },
+  {
+    "label": "parasect"
+  },
+  {
+    "label": "venonat"
+  },
+  {
+    "label": "venomoth"
+  },
+  {
+    "label": "diglett"
+  },
+  {
+    "label": "dugtrio"
+  },
+  {
+    "label": "meowth"
+  },
+  {
+    "label": "persian"
+  },
+  {
+    "label": "psyduck"
+  },
+  {
+    "label": "golduck"
+  },
+  {
+    "label": "mankey"
+  },
+  {
+    "label": "primeape"
+  },
+  {
+    "label": "growlithe"
+  },
+  {
+    "label": "arcanine"
+  },
+  {
+    "label": "poliwag"
+  },
+  {
+    "label": "poliwhirl"
+  },
+  {
+    "label": "poliwrath"
+  },
+  {
+    "label": "abra"
+  },
+  {
+    "label": "kadabra"
+  },
+  {
+    "label": "alakazam"
+  },
+  {
+    "label": "machop"
+  },
+  {
+    "label": "machoke"
+  },
+  {
+    "label": "machamp"
+  },
+  {
+    "label": "bellsprout"
+  },
+  {
+    "label": "weepinbell"
+  },
+  {
+    "label": "victreebel"
+  },
+  {
+    "label": "tentacool"
+  },
+  {
+    "label": "tentacruel"
+  },
+  {
+    "label": "geodude"
+  },
+  {
+    "label": "graveler"
+  },
+  {
+    "label": "golem"
+  },
+  {
+    "label": "ponyta"
+  },
+  {
+    "label": "rapidash"
+  },
+  {
+    "label": "slowpoke"
+  },
+  {
+    "label": "slowbro"
+  },
+  {
+    "label": "magnemite"
+  },
+  {
+    "label": "magneton"
+  },
+  {
+    "label": "farfetchd"
+  },
+  {
+    "label": "doduo"
+  },
+  {
+    "label": "dodrio"
+  },
+  {
+    "label": "seel"
+  },
+  {
+    "label": "dewgong"
+  },
+  {
+    "label": "grimer"
+  },
+  {
+    "label": "muk"
+  },
+  {
+    "label": "shellder"
+  },
+  {
+    "label": "cloyster"
+  },
+  {
+    "label": "gastly"
+  },
+  {
+    "label": "haunter"
+  },
+  {
+    "label": "gengar"
+  },
+  {
+    "label": "onix"
+  },
+  {
+    "label": "drowzee"
+  },
+  {
+    "label": "hypno"
+  },
+  {
+    "label": "krabby"
+  },
+  {
+    "label": "kingler"
+  },
+  {
+    "label": "voltorb"
+  },
+  {
+    "label": "electrode"
+  },
+  {
+    "label": "exeggcute"
+  },
+  {
+    "label": "exeggutor"
+  },
+  {
+    "label": "cubone"
+  },
+  {
+    "label": "marowak"
+  },
+  {
+    "label": "hitmonlee"
+  },
+  {
+    "label": "hitmonchan"
+  },
+  {
+    "label": "lickitung"
+  },
+  {
+    "label": "koffing"
+  },
+  {
+    "label": "weezing"
+  },
+  {
+    "label": "rhyhorn"
+  },
+  {
+    "label": "rhydon"
+  },
+  {
+    "label": "chansey"
+  },
+  {
+    "label": "tangela"
+  },
+  {
+    "label": "kangaskhan"
+  },
+  {
+    "label": "horsea"
+  },
+  {
+    "label": "seadra"
+  },
+  {
+    "label": "goldeen"
+  },
+  {
+    "label": "seaking"
+  },
+  {
+    "label": "staryu"
+  },
+  {
+    "label": "starmie"
+  },
+  {
+    "label": "mr-mime"
+  },
+  {
+    "label": "scyther"
+  },
+  {
+    "label": "jynx"
+  },
+  {
+    "label": "electabuzz"
+  },
+  {
+    "label": "magmar"
+  },
+  {
+    "label": "pinsir"
+  },
+  {
+    "label": "tauros"
+  },
+  {
+    "label": "magikarp"
+  },
+  {
+    "label": "gyarados"
+  },
+  {
+    "label": "lapras"
+  },
+  {
+    "label": "ditto"
+  },
+  {
+    "label": "eevee"
+  },
+  {
+    "label": "vaporeon"
+  },
+  {
+    "label": "jolteon"
+  },
+  {
+    "label": "flareon"
+  },
+  {
+    "label": "porygon"
+  },
+  {
+    "label": "omanyte"
+  },
+  {
+    "label": "omastar"
+  },
+  {
+    "label": "kabuto"
+  },
+  {
+    "label": "kabutops"
+  },
+  {
+    "label": "aerodactyl"
+  },
+  {
+    "label": "snorlax"
+  },
+  {
+    "label": "articuno"
+  },
+  {
+    "label": "zapdos"
+  },
+  {
+    "label": "moltres"
+  },
+  {
+    "label": "dratini"
+  },
+  {
+    "label": "dragonair"
+  },
+  {
+    "label": "dragonite"
+  },
+  {
+    "label": "mewtwo"
+  },
+  {
+    "label": "mew"
+  },
+  {
+    "label": "chikorita"
+  },
+  {
+    "label": "bayleef"
+  },
+  {
+    "label": "meganium"
+  },
+  {
+    "label": "cyndaquil"
+  },
+  {
+    "label": "quilava"
+  },
+  {
+    "label": "typhlosion"
+  },
+  {
+    "label": "totodile"
+  },
+  {
+    "label": "croconaw"
+  },
+  {
+    "label": "feraligatr"
+  },
+  {
+    "label": "sentret"
+  },
+  {
+    "label": "furret"
+  },
+  {
+    "label": "hoothoot"
+  },
+  {
+    "label": "noctowl"
+  },
+  {
+    "label": "ledyba"
+  },
+  {
+    "label": "ledian"
+  },
+  {
+    "label": "spinarak"
+  },
+  {
+    "label": "ariados"
+  },
+  {
+    "label": "crobat"
+  },
+  {
+    "label": "chinchou"
+  },
+  {
+    "label": "lanturn"
+  },
+  {
+    "label": "pichu"
+  },
+  {
+    "label": "cleffa"
+  },
+  {
+    "label": "igglybuff"
+  },
+  {
+    "label": "togepi"
+  },
+  {
+    "label": "togetic"
+  },
+  {
+    "label": "natu"
+  },
+  {
+    "label": "xatu"
+  },
+  {
+    "label": "mareep"
+  },
+  {
+    "label": "flaaffy"
+  },
+  {
+    "label": "ampharos"
+  },
+  {
+    "label": "bellossom"
+  },
+  {
+    "label": "marill"
+  },
+  {
+    "label": "azumarill"
+  },
+  {
+    "label": "sudowoodo"
+  },
+  {
+    "label": "politoed"
+  },
+  {
+    "label": "hoppip"
+  },
+  {
+    "label": "skiploom"
+  },
+  {
+    "label": "jumpluff"
+  },
+  {
+    "label": "aipom"
+  },
+  {
+    "label": "sunkern"
+  },
+  {
+    "label": "sunflora"
+  },
+  {
+    "label": "yanma"
+  },
+  {
+    "label": "wooper"
+  },
+  {
+    "label": "quagsire"
+  },
+  {
+    "label": "espeon"
+  },
+  {
+    "label": "umbreon"
+  },
+  {
+    "label": "murkrow"
+  },
+  {
+    "label": "slowking"
+  },
+  {
+    "label": "misdreavus"
+  },
+  {
+    "label": "unown"
+  },
+  {
+    "label": "wobbuffet"
+  },
+  {
+    "label": "girafarig"
+  },
+  {
+    "label": "pineco"
+  },
+  {
+    "label": "forretress"
+  },
+  {
+    "label": "dunsparce"
+  },
+  {
+    "label": "gligar"
+  },
+  {
+    "label": "steelix"
+  },
+  {
+    "label": "snubbull"
+  },
+  {
+    "label": "granbull"
+  },
+  {
+    "label": "qwilfish"
+  },
+  {
+    "label": "scizor"
+  },
+  {
+    "label": "shuckle"
+  },
+  {
+    "label": "heracross"
+  },
+  {
+    "label": "sneasel"
+  },
+  {
+    "label": "teddiursa"
+  },
+  {
+    "label": "ursaring"
+  },
+  {
+    "label": "slugma"
+  },
+  {
+    "label": "magcargo"
+  },
+  {
+    "label": "swinub"
+  },
+  {
+    "label": "piloswine"
+  },
+  {
+    "label": "corsola"
+  },
+  {
+    "label": "remoraid"
+  },
+  {
+    "label": "octillery"
+  },
+  {
+    "label": "delibird"
+  },
+  {
+    "label": "mantine"
+  },
+  {
+    "label": "skarmory"
+  },
+  {
+    "label": "houndour"
+  },
+  {
+    "label": "houndoom"
+  },
+  {
+    "label": "kingdra"
+  },
+  {
+    "label": "phanpy"
+  },
+  {
+    "label": "donphan"
+  },
+  {
+    "label": "porygon2"
+  },
+  {
+    "label": "stantler"
+  },
+  {
+    "label": "smeargle"
+  },
+  {
+    "label": "tyrogue"
+  },
+  {
+    "label": "hitmontop"
+  },
+  {
+    "label": "smoochum"
+  },
+  {
+    "label": "elekid"
+  },
+  {
+    "label": "magby"
+  },
+  {
+    "label": "miltank"
+  },
+  {
+    "label": "blissey"
+  },
+  {
+    "label": "raikou"
+  },
+  {
+    "label": "entei"
+  },
+  {
+    "label": "suicune"
+  },
+  {
+    "label": "larvitar"
+  },
+  {
+    "label": "pupitar"
+  },
+  {
+    "label": "tyranitar"
+  },
+  {
+    "label": "lugia"
+  },
+  {
+    "label": "ho-oh"
+  },
+  {
+    "label": "celebi"
+  },
+  {
+    "label": "treecko"
+  },
+  {
+    "label": "grovyle"
+  },
+  {
+    "label": "sceptile"
+  },
+  {
+    "label": "torchic"
+  },
+  {
+    "label": "combusken"
+  },
+  {
+    "label": "blaziken"
+  },
+  {
+    "label": "mudkip"
+  },
+  {
+    "label": "marshtomp"
+  },
+  {
+    "label": "swampert"
+  },
+  {
+    "label": "poochyena"
+  },
+  {
+    "label": "mightyena"
+  },
+  {
+    "label": "zigzagoon"
+  },
+  {
+    "label": "linoone"
+  },
+  {
+    "label": "wurmple"
+  },
+  {
+    "label": "silcoon"
+  },
+  {
+    "label": "beautifly"
+  },
+  {
+    "label": "cascoon"
+  },
+  {
+    "label": "dustox"
+  },
+  {
+    "label": "lotad"
+  },
+  {
+    "label": "lombre"
+  },
+  {
+    "label": "ludicolo"
+  },
+  {
+    "label": "seedot"
+  },
+  {
+    "label": "nuzleaf"
+  },
+  {
+    "label": "shiftry"
+  },
+  {
+    "label": "taillow"
+  },
+  {
+    "label": "swellow"
+  },
+  {
+    "label": "wingull"
+  },
+  {
+    "label": "pelipper"
+  },
+  {
+    "label": "ralts"
+  },
+  {
+    "label": "kirlia"
+  },
+  {
+    "label": "gardevoir"
+  },
+  {
+    "label": "surskit"
+  },
+  {
+    "label": "masquerain"
+  },
+  {
+    "label": "shroomish"
+  },
+  {
+    "label": "breloom"
+  },
+  {
+    "label": "slakoth"
+  },
+  {
+    "label": "vigoroth"
+  },
+  {
+    "label": "slaking"
+  },
+  {
+    "label": "nincada"
+  },
+  {
+    "label": "ninjask"
+  },
+  {
+    "label": "shedinja"
+  },
+  {
+    "label": "whismur"
+  },
+  {
+    "label": "loudred"
+  },
+  {
+    "label": "exploud"
+  },
+  {
+    "label": "makuhita"
+  },
+  {
+    "label": "hariyama"
+  },
+  {
+    "label": "azurill"
+  },
+  {
+    "label": "nosepass"
+  },
+  {
+    "label": "skitty"
+  },
+  {
+    "label": "delcatty"
+  },
+  {
+    "label": "sableye"
+  },
+  {
+    "label": "mawile"
+  },
+  {
+    "label": "aron"
+  },
+  {
+    "label": "lairon"
+  },
+  {
+    "label": "aggron"
+  },
+  {
+    "label": "meditite"
+  },
+  {
+    "label": "medicham"
+  },
+  {
+    "label": "electrike"
+  },
+  {
+    "label": "manectric"
+  },
+  {
+    "label": "plusle"
+  },
+  {
+    "label": "minun"
+  },
+  {
+    "label": "volbeat"
+  },
+  {
+    "label": "illumise"
+  },
+  {
+    "label": "roselia"
+  },
+  {
+    "label": "gulpin"
+  },
+  {
+    "label": "swalot"
+  },
+  {
+    "label": "carvanha"
+  },
+  {
+    "label": "sharpedo"
+  },
+  {
+    "label": "wailmer"
+  },
+  {
+    "label": "wailord"
+  },
+  {
+    "label": "numel"
+  },
+  {
+    "label": "camerupt"
+  },
+  {
+    "label": "torkoal"
+  },
+  {
+    "label": "spoink"
+  },
+  {
+    "label": "grumpig"
+  },
+  {
+    "label": "spinda"
+  },
+  {
+    "label": "trapinch"
+  },
+  {
+    "label": "vibrava"
+  },
+  {
+    "label": "flygon"
+  },
+  {
+    "label": "cacnea"
+  },
+  {
+    "label": "cacturne"
+  },
+  {
+    "label": "swablu"
+  },
+  {
+    "label": "altaria"
+  },
+  {
+    "label": "zangoose"
+  },
+  {
+    "label": "seviper"
+  },
+  {
+    "label": "lunatone"
+  },
+  {
+    "label": "solrock"
+  },
+  {
+    "label": "barboach"
+  },
+  {
+    "label": "whiscash"
+  },
+  {
+    "label": "corphish"
+  },
+  {
+    "label": "crawdaunt"
+  },
+  {
+    "label": "baltoy"
+  },
+  {
+    "label": "claydol"
+  },
+  {
+    "label": "lileep"
+  },
+  {
+    "label": "cradily"
+  },
+  {
+    "label": "anorith"
+  },
+  {
+    "label": "armaldo"
+  },
+  {
+    "label": "feebas"
+  },
+  {
+    "label": "milotic"
+  },
+  {
+    "label": "castform"
+  },
+  {
+    "label": "kecleon"
+  },
+  {
+    "label": "shuppet"
+  },
+  {
+    "label": "banette"
+  },
+  {
+    "label": "duskull"
+  },
+  {
+    "label": "dusclops"
+  },
+  {
+    "label": "tropius"
+  },
+  {
+    "label": "chimecho"
+  },
+  {
+    "label": "absol"
+  },
+  {
+    "label": "wynaut"
+  },
+  {
+    "label": "snorunt"
+  },
+  {
+    "label": "glalie"
+  },
+  {
+    "label": "spheal"
+  },
+  {
+    "label": "sealeo"
+  },
+  {
+    "label": "walrein"
+  },
+  {
+    "label": "clamperl"
+  },
+  {
+    "label": "huntail"
+  },
+  {
+    "label": "gorebyss"
+  },
+  {
+    "label": "relicanth"
+  },
+  {
+    "label": "luvdisc"
+  },
+  {
+    "label": "bagon"
+  },
+  {
+    "label": "shelgon"
+  },
+  {
+    "label": "salamence"
+  },
+  {
+    "label": "beldum"
+  },
+  {
+    "label": "metang"
+  },
+  {
+    "label": "metagross"
+  },
+  {
+    "label": "regirock"
+  },
+  {
+    "label": "regice"
+  },
+  {
+    "label": "registeel"
+  },
+  {
+    "label": "latias"
+  },
+  {
+    "label": "latios"
+  },
+  {
+    "label": "kyogre"
+  },
+  {
+    "label": "groudon"
+  },
+  {
+    "label": "rayquaza"
+  },
+  {
+    "label": "jirachi"
+  },
+  {
+    "label": "deoxys-normal"
+  },
+  {
+    "label": "turtwig"
+  },
+  {
+    "label": "grotle"
+  },
+  {
+    "label": "torterra"
+  },
+  {
+    "label": "chimchar"
+  },
+  {
+    "label": "monferno"
+  },
+  {
+    "label": "infernape"
+  },
+  {
+    "label": "piplup"
+  },
+  {
+    "label": "prinplup"
+  },
+  {
+    "label": "empoleon"
+  },
+  {
+    "label": "starly"
+  },
+  {
+    "label": "staravia"
+  },
+  {
+    "label": "staraptor"
+  },
+  {
+    "label": "bidoof"
+  },
+  {
+    "label": "bibarel"
+  },
+  {
+    "label": "kricketot"
+  },
+  {
+    "label": "kricketune"
+  },
+  {
+    "label": "shinx"
+  },
+  {
+    "label": "luxio"
+  },
+  {
+    "label": "luxray"
+  },
+  {
+    "label": "budew"
+  },
+  {
+    "label": "roserade"
+  },
+  {
+    "label": "cranidos"
+  },
+  {
+    "label": "rampardos"
+  },
+  {
+    "label": "shieldon"
+  },
+  {
+    "label": "bastiodon"
+  },
+  {
+    "label": "burmy"
+  },
+  {
+    "label": "wormadam-plant"
+  },
+  {
+    "label": "mothim"
+  },
+  {
+    "label": "combee"
+  },
+  {
+    "label": "vespiquen"
+  },
+  {
+    "label": "pachirisu"
+  },
+  {
+    "label": "buizel"
+  },
+  {
+    "label": "floatzel"
+  },
+  {
+    "label": "cherubi"
+  },
+  {
+    "label": "cherrim"
+  },
+  {
+    "label": "shellos"
+  },
+  {
+    "label": "gastrodon"
+  },
+  {
+    "label": "ambipom"
+  },
+  {
+    "label": "drifloon"
+  },
+  {
+    "label": "drifblim"
+  },
+  {
+    "label": "buneary"
+  },
+  {
+    "label": "lopunny"
+  },
+  {
+    "label": "mismagius"
+  },
+  {
+    "label": "honchkrow"
+  },
+  {
+    "label": "glameow"
+  },
+  {
+    "label": "purugly"
+  },
+  {
+    "label": "chingling"
+  },
+  {
+    "label": "stunky"
+  },
+  {
+    "label": "skuntank"
+  },
+  {
+    "label": "bronzor"
+  },
+  {
+    "label": "bronzong"
+  },
+  {
+    "label": "bonsly"
+  },
+  {
+    "label": "mime-jr"
+  },
+  {
+    "label": "happiny"
+  },
+  {
+    "label": "chatot"
+  },
+  {
+    "label": "spiritomb"
+  },
+  {
+    "label": "gible"
+  },
+  {
+    "label": "gabite"
+  },
+  {
+    "label": "garchomp"
+  },
+  {
+    "label": "munchlax"
+  },
+  {
+    "label": "riolu"
+  },
+  {
+    "label": "lucario"
+  },
+  {
+    "label": "hippopotas"
+  },
+  {
+    "label": "hippowdon"
+  },
+  {
+    "label": "skorupi"
+  },
+  {
+    "label": "drapion"
+  },
+  {
+    "label": "croagunk"
+  },
+  {
+    "label": "toxicroak"
+  },
+  {
+    "label": "carnivine"
+  },
+  {
+    "label": "finneon"
+  },
+  {
+    "label": "lumineon"
+  },
+  {
+    "label": "mantyke"
+  },
+  {
+    "label": "snover"
+  },
+  {
+    "label": "abomasnow"
+  },
+  {
+    "label": "weavile"
+  },
+  {
+    "label": "magnezone"
+  },
+  {
+    "label": "lickilicky"
+  },
+  {
+    "label": "rhyperior"
+  },
+  {
+    "label": "tangrowth"
+  },
+  {
+    "label": "electivire"
+  },
+  {
+    "label": "magmortar"
+  },
+  {
+    "label": "togekiss"
+  },
+  {
+    "label": "yanmega"
+  },
+  {
+    "label": "leafeon"
+  },
+  {
+    "label": "glaceon"
+  },
+  {
+    "label": "gliscor"
+  },
+  {
+    "label": "mamoswine"
+  },
+  {
+    "label": "porygon-z"
+  },
+  {
+    "label": "gallade"
+  },
+  {
+    "label": "probopass"
+  },
+  {
+    "label": "dusknoir"
+  },
+  {
+    "label": "froslass"
+  },
+  {
+    "label": "rotom"
+  },
+  {
+    "label": "uxie"
+  },
+  {
+    "label": "mesprit"
+  },
+  {
+    "label": "azelf"
+  },
+  {
+    "label": "dialga"
+  },
+  {
+    "label": "palkia"
+  },
+  {
+    "label": "heatran"
+  },
+  {
+    "label": "regigigas"
+  },
+  {
+    "label": "giratina-altered"
+  },
+  {
+    "label": "cresselia"
+  },
+  {
+    "label": "phione"
+  },
+  {
+    "label": "manaphy"
+  },
+  {
+    "label": "darkrai"
+  },
+  {
+    "label": "shaymin-land"
+  },
+  {
+    "label": "arceus"
+  },
+  {
+    "label": "victini"
+  },
+  {
+    "label": "snivy"
+  },
+  {
+    "label": "servine"
+  },
+  {
+    "label": "serperior"
+  },
+  {
+    "label": "tepig"
+  },
+  {
+    "label": "pignite"
+  },
+  {
+    "label": "emboar"
+  },
+  {
+    "label": "oshawott"
+  },
+  {
+    "label": "dewott"
+  },
+  {
+    "label": "samurott"
+  },
+  {
+    "label": "patrat"
+  },
+  {
+    "label": "watchog"
+  },
+  {
+    "label": "lillipup"
+  },
+  {
+    "label": "herdier"
+  },
+  {
+    "label": "stoutland"
+  },
+  {
+    "label": "purrloin"
+  },
+  {
+    "label": "liepard"
+  },
+  {
+    "label": "pansage"
+  },
+  {
+    "label": "simisage"
+  },
+  {
+    "label": "pansear"
+  },
+  {
+    "label": "simisear"
+  },
+  {
+    "label": "panpour"
+  },
+  {
+    "label": "simipour"
+  },
+  {
+    "label": "munna"
+  },
+  {
+    "label": "musharna"
+  },
+  {
+    "label": "pidove"
+  },
+  {
+    "label": "tranquill"
+  },
+  {
+    "label": "unfezant"
+  },
+  {
+    "label": "blitzle"
+  },
+  {
+    "label": "zebstrika"
+  },
+  {
+    "label": "roggenrola"
+  },
+  {
+    "label": "boldore"
+  },
+  {
+    "label": "gigalith"
+  },
+  {
+    "label": "woobat"
+  },
+  {
+    "label": "swoobat"
+  },
+  {
+    "label": "drilbur"
+  },
+  {
+    "label": "excadrill"
+  },
+  {
+    "label": "audino"
+  },
+  {
+    "label": "timburr"
+  },
+  {
+    "label": "gurdurr"
+  },
+  {
+    "label": "conkeldurr"
+  },
+  {
+    "label": "tympole"
+  },
+  {
+    "label": "palpitoad"
+  },
+  {
+    "label": "seismitoad"
+  },
+  {
+    "label": "throh"
+  },
+  {
+    "label": "sawk"
+  },
+  {
+    "label": "sewaddle"
+  },
+  {
+    "label": "swadloon"
+  },
+  {
+    "label": "leavanny"
+  },
+  {
+    "label": "venipede"
+  },
+  {
+    "label": "whirlipede"
+  },
+  {
+    "label": "scolipede"
+  },
+  {
+    "label": "cottonee"
+  },
+  {
+    "label": "whimsicott"
+  },
+  {
+    "label": "petilil"
+  },
+  {
+    "label": "lilligant"
+  },
+  {
+    "label": "basculin-red-striped"
+  },
+  {
+    "label": "sandile"
+  },
+  {
+    "label": "krokorok"
+  },
+  {
+    "label": "krookodile"
+  },
+  {
+    "label": "darumaka"
+  },
+  {
+    "label": "darmanitan-standard"
+  },
+  {
+    "label": "maractus"
+  },
+  {
+    "label": "dwebble"
+  },
+  {
+    "label": "crustle"
+  },
+  {
+    "label": "scraggy"
+  },
+  {
+    "label": "scrafty"
+  },
+  {
+    "label": "sigilyph"
+  },
+  {
+    "label": "yamask"
+  },
+  {
+    "label": "cofagrigus"
+  },
+  {
+    "label": "tirtouga"
+  },
+  {
+    "label": "carracosta"
+  },
+  {
+    "label": "archen"
+  },
+  {
+    "label": "archeops"
+  },
+  {
+    "label": "trubbish"
+  },
+  {
+    "label": "garbodor"
+  },
+  {
+    "label": "zorua"
+  },
+  {
+    "label": "zoroark"
+  },
+  {
+    "label": "minccino"
+  },
+  {
+    "label": "cinccino"
+  },
+  {
+    "label": "gothita"
+  },
+  {
+    "label": "gothorita"
+  },
+  {
+    "label": "gothitelle"
+  },
+  {
+    "label": "solosis"
+  },
+  {
+    "label": "duosion"
+  },
+  {
+    "label": "reuniclus"
+  },
+  {
+    "label": "ducklett"
+  },
+  {
+    "label": "swanna"
+  },
+  {
+    "label": "vanillite"
+  },
+  {
+    "label": "vanillish"
+  },
+  {
+    "label": "vanilluxe"
+  },
+  {
+    "label": "deerling"
+  },
+  {
+    "label": "sawsbuck"
+  },
+  {
+    "label": "emolga"
+  },
+  {
+    "label": "karrablast"
+  },
+  {
+    "label": "escavalier"
+  },
+  {
+    "label": "foongus"
+  },
+  {
+    "label": "amoonguss"
+  },
+  {
+    "label": "frillish"
+  },
+  {
+    "label": "jellicent"
+  },
+  {
+    "label": "alomomola"
+  },
+  {
+    "label": "joltik"
+  },
+  {
+    "label": "galvantula"
+  },
+  {
+    "label": "ferroseed"
+  },
+  {
+    "label": "ferrothorn"
+  },
+  {
+    "label": "klink"
+  },
+  {
+    "label": "klang"
+  },
+  {
+    "label": "klinklang"
+  },
+  {
+    "label": "tynamo"
+  },
+  {
+    "label": "eelektrik"
+  },
+  {
+    "label": "eelektross"
+  },
+  {
+    "label": "elgyem"
+  },
+  {
+    "label": "beheeyem"
+  },
+  {
+    "label": "litwick"
+  },
+  {
+    "label": "lampent"
+  },
+  {
+    "label": "chandelure"
+  },
+  {
+    "label": "axew"
+  },
+  {
+    "label": "fraxure"
+  },
+  {
+    "label": "haxorus"
+  },
+  {
+    "label": "cubchoo"
+  },
+  {
+    "label": "beartic"
+  },
+  {
+    "label": "cryogonal"
+  },
+  {
+    "label": "shelmet"
+  },
+  {
+    "label": "accelgor"
+  },
+  {
+    "label": "stunfisk"
+  },
+  {
+    "label": "mienfoo"
+  },
+  {
+    "label": "mienshao"
+  },
+  {
+    "label": "druddigon"
+  },
+  {
+    "label": "golett"
+  },
+  {
+    "label": "golurk"
+  },
+  {
+    "label": "pawniard"
+  },
+  {
+    "label": "bisharp"
+  },
+  {
+    "label": "bouffalant"
+  },
+  {
+    "label": "rufflet"
+  },
+  {
+    "label": "braviary"
+  },
+  {
+    "label": "vullaby"
+  },
+  {
+    "label": "mandibuzz"
+  },
+  {
+    "label": "heatmor"
+  },
+  {
+    "label": "durant"
+  },
+  {
+    "label": "deino"
+  },
+  {
+    "label": "zweilous"
+  },
+  {
+    "label": "hydreigon"
+  },
+  {
+    "label": "larvesta"
+  },
+  {
+    "label": "volcarona"
+  },
+  {
+    "label": "cobalion"
+  },
+  {
+    "label": "terrakion"
+  },
+  {
+    "label": "virizion"
+  },
+  {
+    "label": "tornadus-incarnate"
+  },
+  {
+    "label": "thundurus-incarnate"
+  },
+  {
+    "label": "reshiram"
+  },
+  {
+    "label": "zekrom"
+  },
+  {
+    "label": "landorus-incarnate"
+  },
+  {
+    "label": "kyurem"
+  },
+  {
+    "label": "keldeo-ordinary"
+  },
+  {
+    "label": "meloetta-aria"
+  },
+  {
+    "label": "genesect"
+  },
+  {
+    "label": "chespin"
+  },
+  {
+    "label": "quilladin"
+  },
+  {
+    "label": "chesnaught"
+  },
+  {
+    "label": "fennekin"
+  },
+  {
+    "label": "braixen"
+  },
+  {
+    "label": "delphox"
+  },
+  {
+    "label": "froakie"
+  },
+  {
+    "label": "frogadier"
+  },
+  {
+    "label": "greninja"
+  },
+  {
+    "label": "bunnelby"
+  },
+  {
+    "label": "diggersby"
+  },
+  {
+    "label": "fletchling"
+  },
+  {
+    "label": "fletchinder"
+  },
+  {
+    "label": "talonflame"
+  },
+  {
+    "label": "scatterbug"
+  },
+  {
+    "label": "spewpa"
+  },
+  {
+    "label": "vivillon"
+  },
+  {
+    "label": "litleo"
+  },
+  {
+    "label": "pyroar"
+  },
+  {
+    "label": "flabebe"
+  },
+  {
+    "label": "floette"
+  },
+  {
+    "label": "florges"
+  },
+  {
+    "label": "skiddo"
+  },
+  {
+    "label": "gogoat"
+  },
+  {
+    "label": "pancham"
+  },
+  {
+    "label": "pangoro"
+  },
+  {
+    "label": "furfrou"
+  },
+  {
+    "label": "espurr"
+  },
+  {
+    "label": "meowstic-male"
+  },
+  {
+    "label": "honedge"
+  },
+  {
+    "label": "doublade"
+  },
+  {
+    "label": "aegislash-shield"
+  },
+  {
+    "label": "spritzee"
+  },
+  {
+    "label": "aromatisse"
+  },
+  {
+    "label": "swirlix"
+  },
+  {
+    "label": "slurpuff"
+  },
+  {
+    "label": "inkay"
+  },
+  {
+    "label": "malamar"
+  },
+  {
+    "label": "binacle"
+  },
+  {
+    "label": "barbaracle"
+  },
+  {
+    "label": "skrelp"
+  },
+  {
+    "label": "dragalge"
+  },
+  {
+    "label": "clauncher"
+  },
+  {
+    "label": "clawitzer"
+  },
+  {
+    "label": "helioptile"
+  },
+  {
+    "label": "heliolisk"
+  },
+  {
+    "label": "tyrunt"
+  },
+  {
+    "label": "tyrantrum"
+  },
+  {
+    "label": "amaura"
+  },
+  {
+    "label": "aurorus"
+  },
+  {
+    "label": "sylveon"
+  },
+  {
+    "label": "hawlucha"
+  },
+  {
+    "label": "dedenne"
+  },
+  {
+    "label": "carbink"
+  },
+  {
+    "label": "goomy"
+  },
+  {
+    "label": "sliggoo"
+  },
+  {
+    "label": "goodra"
+  },
+  {
+    "label": "klefki"
+  },
+  {
+    "label": "phantump"
+  },
+  {
+    "label": "trevenant"
+  },
+  {
+    "label": "pumpkaboo-average"
+  },
+  {
+    "label": "gourgeist-average"
+  },
+  {
+    "label": "bergmite"
+  },
+  {
+    "label": "avalugg"
+  },
+  {
+    "label": "noibat"
+  },
+  {
+    "label": "noivern"
+  },
+  {
+    "label": "xerneas"
+  },
+  {
+    "label": "yveltal"
+  },
+  {
+    "label": "zygarde-50"
+  },
+  {
+    "label": "diancie"
+  },
+  {
+    "label": "hoopa"
+  },
+  {
+    "label": "volcanion"
+  },
+  {
+    "label": "rowlet"
+  },
+  {
+    "label": "dartrix"
+  },
+  {
+    "label": "decidueye"
+  },
+  {
+    "label": "litten"
+  },
+  {
+    "label": "torracat"
+  },
+  {
+    "label": "incineroar"
+  },
+  {
+    "label": "popplio"
+  },
+  {
+    "label": "brionne"
+  },
+  {
+    "label": "primarina"
+  },
+  {
+    "label": "pikipek"
+  },
+  {
+    "label": "trumbeak"
+  },
+  {
+    "label": "toucannon"
+  },
+  {
+    "label": "yungoos"
+  },
+  {
+    "label": "gumshoos"
+  },
+  {
+    "label": "grubbin"
+  },
+  {
+    "label": "charjabug"
+  },
+  {
+    "label": "vikavolt"
+  },
+  {
+    "label": "crabrawler"
+  },
+  {
+    "label": "crabominable"
+  },
+  {
+    "label": "oricorio-baile"
+  },
+  {
+    "label": "cutiefly"
+  },
+  {
+    "label": "ribombee"
+  },
+  {
+    "label": "rockruff"
+  },
+  {
+    "label": "lycanroc-midday"
+  },
+  {
+    "label": "wishiwashi-solo"
+  },
+  {
+    "label": "mareanie"
+  },
+  {
+    "label": "toxapex"
+  },
+  {
+    "label": "mudbray"
+  },
+  {
+    "label": "mudsdale"
+  },
+  {
+    "label": "dewpider"
+  },
+  {
+    "label": "araquanid"
+  },
+  {
+    "label": "fomantis"
+  },
+  {
+    "label": "lurantis"
+  },
+  {
+    "label": "morelull"
+  },
+  {
+    "label": "shiinotic"
+  },
+  {
+    "label": "salandit"
+  },
+  {
+    "label": "salazzle"
+  },
+  {
+    "label": "stufful"
+  },
+  {
+    "label": "bewear"
+  },
+  {
+    "label": "bounsweet"
+  },
+  {
+    "label": "steenee"
+  },
+  {
+    "label": "tsareena"
+  },
+  {
+    "label": "comfey"
+  },
+  {
+    "label": "oranguru"
+  },
+  {
+    "label": "passimian"
+  },
+  {
+    "label": "wimpod"
+  },
+  {
+    "label": "golisopod"
+  },
+  {
+    "label": "sandygast"
+  },
+  {
+    "label": "palossand"
+  },
+  {
+    "label": "pyukumuku"
+  },
+  {
+    "label": "type-null"
+  },
+  {
+    "label": "silvally"
+  },
+  {
+    "label": "minior-red-meteor"
+  },
+  {
+    "label": "komala"
+  },
+  {
+    "label": "turtonator"
+  },
+  {
+    "label": "togedemaru"
+  },
+  {
+    "label": "mimikyu-disguised"
+  },
+  {
+    "label": "bruxish"
+  },
+  {
+    "label": "drampa"
+  },
+  {
+    "label": "dhelmise"
+  },
+  {
+    "label": "jangmo-o"
+  },
+  {
+    "label": "hakamo-o"
+  },
+  {
+    "label": "kommo-o"
+  },
+  {
+    "label": "tapu-koko"
+  },
+  {
+    "label": "tapu-lele"
+  },
+  {
+    "label": "tapu-bulu"
+  },
+  {
+    "label": "tapu-fini"
+  },
+  {
+    "label": "cosmog"
+  },
+  {
+    "label": "cosmoem"
+  },
+  {
+    "label": "solgaleo"
+  },
+  {
+    "label": "lunala"
+  },
+  {
+    "label": "nihilego"
+  },
+  {
+    "label": "buzzwole"
+  },
+  {
+    "label": "pheromosa"
+  },
+  {
+    "label": "xurkitree"
+  },
+  {
+    "label": "celesteela"
+  },
+  {
+    "label": "kartana"
+  },
+  {
+    "label": "guzzlord"
+  },
+  {
+    "label": "necrozma"
+  },
+  {
+    "label": "magearna"
+  },
+  {
+    "label": "marshadow"
+  },
+  {
+    "label": "poipole"
+  },
+  {
+    "label": "naganadel"
+  },
+  {
+    "label": "stakataka"
+  },
+  {
+    "label": "blacephalon"
+  },
+  {
+    "label": "zeraora"
+  },
+  {
+    "label": "meltan"
+  },
+  {
+    "label": "melmetal"
+  },
+  {
+    "label": "grookey"
+  },
+  {
+    "label": "thwackey"
+  },
+  {
+    "label": "rillaboom"
+  },
+  {
+    "label": "scorbunny"
+  },
+  {
+    "label": "raboot"
+  },
+  {
+    "label": "cinderace"
+  },
+  {
+    "label": "sobble"
+  },
+  {
+    "label": "drizzile"
+  },
+  {
+    "label": "inteleon"
+  },
+  {
+    "label": "skwovet"
+  },
+  {
+    "label": "greedent"
+  },
+  {
+    "label": "rookidee"
+  },
+  {
+    "label": "corvisquire"
+  },
+  {
+    "label": "corviknight"
+  },
+  {
+    "label": "blipbug"
+  },
+  {
+    "label": "dottler"
+  },
+  {
+    "label": "orbeetle"
+  },
+  {
+    "label": "nickit"
+  },
+  {
+    "label": "thievul"
+  },
+  {
+    "label": "gossifleur"
+  },
+  {
+    "label": "eldegoss"
+  },
+  {
+    "label": "wooloo"
+  },
+  {
+    "label": "dubwool"
+  },
+  {
+    "label": "chewtle"
+  },
+  {
+    "label": "drednaw"
+  },
+  {
+    "label": "yamper"
+  },
+  {
+    "label": "boltund"
+  },
+  {
+    "label": "rolycoly"
+  },
+  {
+    "label": "carkol"
+  },
+  {
+    "label": "coalossal"
+  },
+  {
+    "label": "applin"
+  },
+  {
+    "label": "flapple"
+  },
+  {
+    "label": "appletun"
+  },
+  {
+    "label": "silicobra"
+  },
+  {
+    "label": "sandaconda"
+  },
+  {
+    "label": "cramorant"
+  },
+  {
+    "label": "arrokuda"
+  },
+  {
+    "label": "barraskewda"
+  },
+  {
+    "label": "toxel"
+  },
+  {
+    "label": "toxtricity-amped"
+  },
+  {
+    "label": "sizzlipede"
+  },
+  {
+    "label": "centiskorch"
+  },
+  {
+    "label": "clobbopus"
+  },
+  {
+    "label": "grapploct"
+  },
+  {
+    "label": "sinistea"
+  },
+  {
+    "label": "polteageist"
+  },
+  {
+    "label": "hatenna"
+  },
+  {
+    "label": "hattrem"
+  },
+  {
+    "label": "hatterene"
+  },
+  {
+    "label": "impidimp"
+  },
+  {
+    "label": "morgrem"
+  },
+  {
+    "label": "grimmsnarl"
+  },
+  {
+    "label": "obstagoon"
+  },
+  {
+    "label": "perrserker"
+  },
+  {
+    "label": "cursola"
+  },
+  {
+    "label": "sirfetchd"
+  },
+  {
+    "label": "mr-rime"
+  },
+  {
+    "label": "runerigus"
+  },
+  {
+    "label": "milcery"
+  },
+  {
+    "label": "alcremie"
+  },
+  {
+    "label": "falinks"
+  },
+  {
+    "label": "pincurchin"
+  },
+  {
+    "label": "snom"
+  },
+  {
+    "label": "frosmoth"
+  },
+  {
+    "label": "stonjourner"
+  },
+  {
+    "label": "eiscue-ice"
+  },
+  {
+    "label": "indeedee-male"
+  },
+  {
+    "label": "morpeko-full-belly"
+  },
+  {
+    "label": "cufant"
+  },
+  {
+    "label": "copperajah"
+  },
+  {
+    "label": "dracozolt"
+  },
+  {
+    "label": "arctozolt"
+  },
+  {
+    "label": "dracovish"
+  },
+  {
+    "label": "arctovish"
+  },
+  {
+    "label": "duraludon"
+  },
+  {
+    "label": "dreepy"
+  },
+  {
+    "label": "drakloak"
+  },
+  {
+    "label": "dragapult"
+  },
+  {
+    "label": "zacian"
+  },
+  {
+    "label": "zamazenta"
+  },
+  {
+    "label": "eternatus"
+  },
+  {
+    "label": "kubfu"
+  },
+  {
+    "label": "urshifu-single-strike"
+  },
+  {
+    "label": "zarude"
+  },
+  {
+    "label": "regieleki"
+  },
+  {
+    "label": "regidrago"
+  },
+  {
+    "label": "glastrier"
+  },
+  {
+    "label": "spectrier"
+  },
+  {
+    "label": "calyrex"
+  },
+  {
+    "label": "wyrdeer"
+  },
+  {
+    "label": "kleavor"
+  },
+  {
+    "label": "ursaluna"
+  },
+  {
+    "label": "basculegion-male"
+  },
+  {
+    "label": "sneasler"
+  },
+  {
+    "label": "overqwil"
+  },
+  {
+    "label": "enamorus-incarnate"
+  },
+  {
+    "label": "sprigatito"
+  },
+  {
+    "label": "floragato"
+  },
+  {
+    "label": "meowscarada"
+  },
+  {
+    "label": "fuecoco"
+  },
+  {
+    "label": "crocalor"
+  },
+  {
+    "label": "skeledirge"
+  },
+  {
+    "label": "quaxly"
+  },
+  {
+    "label": "quaxwell"
+  },
+  {
+    "label": "quaquaval"
+  },
+  {
+    "label": "lechonk"
+  },
+  {
+    "label": "oinkologne-male"
+  },
+  {
+    "label": "tarountula"
+  },
+  {
+    "label": "spidops"
+  },
+  {
+    "label": "nymble"
+  },
+  {
+    "label": "lokix"
+  },
+  {
+    "label": "pawmi"
+  },
+  {
+    "label": "pawmo"
+  },
+  {
+    "label": "pawmot"
+  },
+  {
+    "label": "tandemaus"
+  },
+  {
+    "label": "maushold-family-of-four"
+  },
+  {
+    "label": "fidough"
+  },
+  {
+    "label": "dachsbun"
+  },
+  {
+    "label": "smoliv"
+  },
+  {
+    "label": "dolliv"
+  },
+  {
+    "label": "arboliva"
+  },
+  {
+    "label": "squawkabilly-green-plumage"
+  },
+  {
+    "label": "nacli"
+  },
+  {
+    "label": "naclstack"
+  },
+  {
+    "label": "garganacl"
+  },
+  {
+    "label": "charcadet"
+  },
+  {
+    "label": "armarouge"
+  },
+  {
+    "label": "ceruledge"
+  },
+  {
+    "label": "tadbulb"
+  },
+  {
+    "label": "bellibolt"
+  },
+  {
+    "label": "wattrel"
+  },
+  {
+    "label": "kilowattrel"
+  },
+  {
+    "label": "maschiff"
+  },
+  {
+    "label": "mabosstiff"
+  },
+  {
+    "label": "shroodle"
+  },
+  {
+    "label": "grafaiai"
+  },
+  {
+    "label": "bramblin"
+  },
+  {
+    "label": "brambleghast"
+  },
+  {
+    "label": "toedscool"
+  },
+  {
+    "label": "toedscruel"
+  },
+  {
+    "label": "klawf"
+  },
+  {
+    "label": "capsakid"
+  },
+  {
+    "label": "scovillain"
+  },
+  {
+    "label": "rellor"
+  },
+  {
+    "label": "rabsca"
+  },
+  {
+    "label": "flittle"
+  },
+  {
+    "label": "espathra"
+  },
+  {
+    "label": "tinkatink"
+  },
+  {
+    "label": "tinkatuff"
+  },
+  {
+    "label": "tinkaton"
+  },
+  {
+    "label": "wiglett"
+  },
+  {
+    "label": "wugtrio"
+  },
+  {
+    "label": "bombirdier"
+  },
+  {
+    "label": "finizen"
+  },
+  {
+    "label": "palafin-zero"
+  },
+  {
+    "label": "varoom"
+  },
+  {
+    "label": "revavroom"
+  },
+  {
+    "label": "cyclizar"
+  },
+  {
+    "label": "orthworm"
+  },
+  {
+    "label": "glimmet"
+  },
+  {
+    "label": "glimmora"
+  },
+  {
+    "label": "greavard"
+  },
+  {
+    "label": "houndstone"
+  },
+  {
+    "label": "flamigo"
+  },
+  {
+    "label": "cetoddle"
+  },
+  {
+    "label": "cetitan"
+  },
+  {
+    "label": "veluza"
+  },
+  {
+    "label": "dondozo"
+  },
+  {
+    "label": "tatsugiri-curly"
+  },
+  {
+    "label": "annihilape"
+  },
+  {
+    "label": "clodsire"
+  },
+  {
+    "label": "farigiraf"
+  },
+  {
+    "label": "dudunsparce-two-segment"
+  },
+  {
+    "label": "kingambit"
+  },
+  {
+    "label": "great-tusk"
+  },
+  {
+    "label": "scream-tail"
+  },
+  {
+    "label": "brute-bonnet"
+  },
+  {
+    "label": "flutter-mane"
+  },
+  {
+    "label": "slither-wing"
+  },
+  {
+    "label": "sandy-shocks"
+  },
+  {
+    "label": "iron-treads"
+  },
+  {
+    "label": "iron-bundle"
+  },
+  {
+    "label": "iron-hands"
+  },
+  {
+    "label": "iron-jugulis"
+  },
+  {
+    "label": "iron-moth"
+  },
+  {
+    "label": "iron-thorns"
+  },
+  {
+    "label": "frigibax"
+  },
+  {
+    "label": "arctibax"
+  },
+  {
+    "label": "baxcalibur"
+  },
+  {
+    "label": "gimmighoul"
+  },
+  {
+    "label": "gholdengo"
+  },
+  {
+    "label": "wo-chien"
+  },
+  {
+    "label": "chien-pao"
+  },
+  {
+    "label": "ting-lu"
+  },
+  {
+    "label": "chi-yu"
+  },
+  {
+    "label": "roaring-moon"
+  },
+  {
+    "label": "iron-valiant"
+  },
+  {
+    "label": "koraidon"
+  },
+  {
+    "label": "miraidon"
+  },
+  {
+    "label": "walking-wake"
+  },
+  {
+    "label": "iron-leaves"
+  },
+  {
+    "label": "dipplin"
+  },
+  {
+    "label": "poltchageist"
+  },
+  {
+    "label": "sinistcha"
+  },
+  {
+    "label": "okidogi"
+  },
+  {
+    "label": "munkidori"
+  },
+  {
+    "label": "fezandipiti"
+  },
+  {
+    "label": "ogerpon"
+  },
+  {
+    "label": "archaludon"
+  },
+  {
+    "label": "hydrapple"
+  },
+  {
+    "label": "gouging-fire"
+  },
+  {
+    "label": "raging-bolt"
+  },
+  {
+    "label": "iron-boulder"
+  },
+  {
+    "label": "iron-crown"
+  },
+  {
+    "label": "terapagos"
+  },
+  {
+    "label": "pecharunt"
+  },
+  {
+    "label": "deoxys-attack"
+  },
+  {
+    "label": "deoxys-defense"
+  },
+  {
+    "label": "deoxys-speed"
+  },
+  {
+    "label": "wormadam-sandy"
+  },
+  {
+    "label": "wormadam-trash"
+  },
+  {
+    "label": "shaymin-sky"
+  },
+  {
+    "label": "giratina-origin"
+  },
+  {
+    "label": "rotom-heat"
+  },
+  {
+    "label": "rotom-wash"
+  },
+  {
+    "label": "rotom-frost"
+  },
+  {
+    "label": "rotom-fan"
+  },
+  {
+    "label": "rotom-mow"
+  },
+  {
+    "label": "castform-sunny"
+  },
+  {
+    "label": "castform-rainy"
+  },
+  {
+    "label": "castform-snowy"
+  },
+  {
+    "label": "basculin-blue-striped"
+  },
+  {
+    "label": "darmanitan-zen"
+  },
+  {
+    "label": "meloetta-pirouette"
+  },
+  {
+    "label": "tornadus-therian"
+  },
+  {
+    "label": "thundurus-therian"
+  },
+  {
+    "label": "landorus-therian"
+  },
+  {
+    "label": "kyurem-black"
+  },
+  {
+    "label": "kyurem-white"
+  },
+  {
+    "label": "keldeo-resolute"
+  },
+  {
+    "label": "meowstic-female"
+  },
+  {
+    "label": "aegislash-blade"
+  },
+  {
+    "label": "pumpkaboo-small"
+  },
+  {
+    "label": "pumpkaboo-large"
+  },
+  {
+    "label": "pumpkaboo-super"
+  },
+  {
+    "label": "gourgeist-small"
+  },
+  {
+    "label": "gourgeist-large"
+  },
+  {
+    "label": "gourgeist-super"
+  },
+  {
+    "label": "venusaur-mega"
+  },
+  {
+    "label": "charizard-mega-x"
+  },
+  {
+    "label": "charizard-mega-y"
+  },
+  {
+    "label": "blastoise-mega"
+  },
+  {
+    "label": "alakazam-mega"
+  },
+  {
+    "label": "gengar-mega"
+  },
+  {
+    "label": "kangaskhan-mega"
+  },
+  {
+    "label": "pinsir-mega"
+  },
+  {
+    "label": "gyarados-mega"
+  },
+  {
+    "label": "aerodactyl-mega"
+  },
+  {
+    "label": "mewtwo-mega-x"
+  },
+  {
+    "label": "mewtwo-mega-y"
+  },
+  {
+    "label": "ampharos-mega"
+  },
+  {
+    "label": "scizor-mega"
+  },
+  {
+    "label": "heracross-mega"
+  },
+  {
+    "label": "houndoom-mega"
+  },
+  {
+    "label": "tyranitar-mega"
+  },
+  {
+    "label": "blaziken-mega"
+  },
+  {
+    "label": "gardevoir-mega"
+  },
+  {
+    "label": "mawile-mega"
+  },
+  {
+    "label": "aggron-mega"
+  },
+  {
+    "label": "medicham-mega"
+  },
+  {
+    "label": "manectric-mega"
+  },
+  {
+    "label": "banette-mega"
+  },
+  {
+    "label": "absol-mega"
+  },
+  {
+    "label": "garchomp-mega"
+  },
+  {
+    "label": "lucario-mega"
+  },
+  {
+    "label": "abomasnow-mega"
+  },
+  {
+    "label": "floette-eternal"
+  },
+  {
+    "label": "latias-mega"
+  },
+  {
+    "label": "latios-mega"
+  },
+  {
+    "label": "swampert-mega"
+  },
+  {
+    "label": "sceptile-mega"
+  },
+  {
+    "label": "sableye-mega"
+  },
+  {
+    "label": "altaria-mega"
+  },
+  {
+    "label": "gallade-mega"
+  },
+  {
+    "label": "audino-mega"
+  },
+  {
+    "label": "sharpedo-mega"
+  },
+  {
+    "label": "slowbro-mega"
+  },
+  {
+    "label": "steelix-mega"
+  },
+  {
+    "label": "pidgeot-mega"
+  },
+  {
+    "label": "glalie-mega"
+  },
+  {
+    "label": "diancie-mega"
+  },
+  {
+    "label": "metagross-mega"
+  },
+  {
+    "label": "kyogre-primal"
+  },
+  {
+    "label": "groudon-primal"
+  },
+  {
+    "label": "rayquaza-mega"
+  },
+  {
+    "label": "pikachu-rock-star"
+  },
+  {
+    "label": "pikachu-belle"
+  },
+  {
+    "label": "pikachu-pop-star"
+  },
+  {
+    "label": "pikachu-phd"
+  },
+  {
+    "label": "pikachu-libre"
+  },
+  {
+    "label": "pikachu-cosplay"
+  },
+  {
+    "label": "hoopa-unbound"
+  },
+  {
+    "label": "camerupt-mega"
+  },
+  {
+    "label": "lopunny-mega"
+  },
+  {
+    "label": "salamence-mega"
+  },
+  {
+    "label": "beedrill-mega"
+  },
+  {
+    "label": "rattata-alola"
+  },
+  {
+    "label": "raticate-alola"
+  },
+  {
+    "label": "raticate-totem-alola"
+  },
+  {
+    "label": "pikachu-original-cap"
+  },
+  {
+    "label": "pikachu-hoenn-cap"
+  },
+  {
+    "label": "pikachu-sinnoh-cap"
+  },
+  {
+    "label": "pikachu-unova-cap"
+  },
+  {
+    "label": "pikachu-kalos-cap"
+  },
+  {
+    "label": "pikachu-alola-cap"
+  },
+  {
+    "label": "raichu-alola"
+  },
+  {
+    "label": "sandshrew-alola"
+  },
+  {
+    "label": "sandslash-alola"
+  },
+  {
+    "label": "vulpix-alola"
+  },
+  {
+    "label": "ninetales-alola"
+  },
+  {
+    "label": "diglett-alola"
+  },
+  {
+    "label": "dugtrio-alola"
+  },
+  {
+    "label": "meowth-alola"
+  },
+  {
+    "label": "persian-alola"
+  },
+  {
+    "label": "geodude-alola"
+  },
+  {
+    "label": "graveler-alola"
+  },
+  {
+    "label": "golem-alola"
+  },
+  {
+    "label": "grimer-alola"
+  },
+  {
+    "label": "muk-alola"
+  },
+  {
+    "label": "exeggutor-alola"
+  },
+  {
+    "label": "marowak-alola"
+  },
+  {
+    "label": "greninja-battle-bond"
+  },
+  {
+    "label": "greninja-ash"
+  },
+  {
+    "label": "zygarde-10-power-construct"
+  },
+  {
+    "label": "zygarde-50-power-construct"
+  },
+  {
+    "label": "zygarde-complete"
+  },
+  {
+    "label": "gumshoos-totem"
+  },
+  {
+    "label": "vikavolt-totem"
+  },
+  {
+    "label": "oricorio-pom-pom"
+  },
+  {
+    "label": "oricorio-pau"
+  },
+  {
+    "label": "oricorio-sensu"
+  },
+  {
+    "label": "lycanroc-midnight"
+  },
+  {
+    "label": "wishiwashi-school"
+  },
+  {
+    "label": "lurantis-totem"
+  },
+  {
+    "label": "salazzle-totem"
+  },
+  {
+    "label": "minior-orange-meteor"
+  },
+  {
+    "label": "minior-yellow-meteor"
+  },
+  {
+    "label": "minior-green-meteor"
+  },
+  {
+    "label": "minior-blue-meteor"
+  },
+  {
+    "label": "minior-indigo-meteor"
+  },
+  {
+    "label": "minior-violet-meteor"
+  },
+  {
+    "label": "minior-red"
+  },
+  {
+    "label": "minior-orange"
+  },
+  {
+    "label": "minior-yellow"
+  },
+  {
+    "label": "minior-green"
+  },
+  {
+    "label": "minior-blue"
+  },
+  {
+    "label": "minior-indigo"
+  },
+  {
+    "label": "minior-violet"
+  },
+  {
+    "label": "mimikyu-busted"
+  },
+  {
+    "label": "mimikyu-totem-disguised"
+  },
+  {
+    "label": "mimikyu-totem-busted"
+  },
+  {
+    "label": "kommo-o-totem"
+  },
+  {
+    "label": "magearna-original"
+  },
+  {
+    "label": "pikachu-partner-cap"
+  },
+  {
+    "label": "marowak-totem"
+  },
+  {
+    "label": "ribombee-totem"
+  },
+  {
+    "label": "rockruff-own-tempo"
+  },
+  {
+    "label": "lycanroc-dusk"
+  },
+  {
+    "label": "araquanid-totem"
+  },
+  {
+    "label": "togedemaru-totem"
+  },
+  {
+    "label": "necrozma-dusk"
+  },
+  {
+    "label": "necrozma-dawn"
+  },
+  {
+    "label": "necrozma-ultra"
+  },
+  {
+    "label": "pikachu-starter"
+  },
+  {
+    "label": "eevee-starter"
+  },
+  {
+    "label": "pikachu-world-cap"
+  },
+  {
+    "label": "meowth-galar"
+  },
+  {
+    "label": "ponyta-galar"
+  },
+  {
+    "label": "rapidash-galar"
+  },
+  {
+    "label": "slowpoke-galar"
+  },
+  {
+    "label": "slowbro-galar"
+  },
+  {
+    "label": "farfetchd-galar"
+  },
+  {
+    "label": "weezing-galar"
+  },
+  {
+    "label": "mr-mime-galar"
+  },
+  {
+    "label": "articuno-galar"
+  },
+  {
+    "label": "zapdos-galar"
+  },
+  {
+    "label": "moltres-galar"
+  },
+  {
+    "label": "slowking-galar"
+  },
+  {
+    "label": "corsola-galar"
+  },
+  {
+    "label": "zigzagoon-galar"
+  },
+  {
+    "label": "linoone-galar"
+  },
+  {
+    "label": "darumaka-galar"
+  },
+  {
+    "label": "darmanitan-galar-standard"
+  },
+  {
+    "label": "darmanitan-galar-zen"
+  },
+  {
+    "label": "yamask-galar"
+  },
+  {
+    "label": "stunfisk-galar"
+  },
+  {
+    "label": "zygarde-10"
+  },
+  {
+    "label": "cramorant-gulping"
+  },
+  {
+    "label": "cramorant-gorging"
+  },
+  {
+    "label": "toxtricity-low-key"
+  },
+  {
+    "label": "eiscue-noice"
+  },
+  {
+    "label": "indeedee-female"
+  },
+  {
+    "label": "morpeko-hangry"
+  },
+  {
+    "label": "zacian-crowned"
+  },
+  {
+    "label": "zamazenta-crowned"
+  },
+  {
+    "label": "eternatus-eternamax"
+  },
+  {
+    "label": "urshifu-rapid-strike"
+  },
+  {
+    "label": "zarude-dada"
+  },
+  {
+    "label": "calyrex-ice"
+  },
+  {
+    "label": "calyrex-shadow"
+  },
+  {
+    "label": "venusaur-gmax"
+  },
+  {
+    "label": "charizard-gmax"
+  },
+  {
+    "label": "blastoise-gmax"
+  },
+  {
+    "label": "butterfree-gmax"
+  },
+  {
+    "label": "pikachu-gmax"
+  },
+  {
+    "label": "meowth-gmax"
+  },
+  {
+    "label": "machamp-gmax"
+  },
+  {
+    "label": "gengar-gmax"
+  },
+  {
+    "label": "kingler-gmax"
+  },
+  {
+    "label": "lapras-gmax"
+  },
+  {
+    "label": "eevee-gmax"
+  },
+  {
+    "label": "snorlax-gmax"
+  },
+  {
+    "label": "garbodor-gmax"
+  },
+  {
+    "label": "melmetal-gmax"
+  },
+  {
+    "label": "rillaboom-gmax"
+  },
+  {
+    "label": "cinderace-gmax"
+  },
+  {
+    "label": "inteleon-gmax"
+  },
+  {
+    "label": "corviknight-gmax"
+  },
+  {
+    "label": "orbeetle-gmax"
+  },
+  {
+    "label": "drednaw-gmax"
+  },
+  {
+    "label": "coalossal-gmax"
+  },
+  {
+    "label": "flapple-gmax"
+  },
+  {
+    "label": "appletun-gmax"
+  },
+  {
+    "label": "sandaconda-gmax"
+  },
+  {
+    "label": "toxtricity-amped-gmax"
+  },
+  {
+    "label": "centiskorch-gmax"
+  },
+  {
+    "label": "hatterene-gmax"
+  },
+  {
+    "label": "grimmsnarl-gmax"
+  },
+  {
+    "label": "alcremie-gmax"
+  },
+  {
+    "label": "copperajah-gmax"
+  },
+  {
+    "label": "duraludon-gmax"
+  },
+  {
+    "label": "urshifu-single-strike-gmax"
+  },
+  {
+    "label": "urshifu-rapid-strike-gmax"
+  },
+  {
+    "label": "toxtricity-low-key-gmax"
+  },
+  {
+    "label": "growlithe-hisui"
+  },
+  {
+    "label": "arcanine-hisui"
+  },
+  {
+    "label": "voltorb-hisui"
+  },
+  {
+    "label": "electrode-hisui"
+  },
+  {
+    "label": "typhlosion-hisui"
+  },
+  {
+    "label": "qwilfish-hisui"
+  },
+  {
+    "label": "sneasel-hisui"
+  },
+  {
+    "label": "samurott-hisui"
+  },
+  {
+    "label": "lilligant-hisui"
+  },
+  {
+    "label": "zorua-hisui"
+  },
+  {
+    "label": "zoroark-hisui"
+  },
+  {
+    "label": "braviary-hisui"
+  },
+  {
+    "label": "sliggoo-hisui"
+  },
+  {
+    "label": "goodra-hisui"
+  },
+  {
+    "label": "avalugg-hisui"
+  },
+  {
+    "label": "decidueye-hisui"
+  },
+  {
+    "label": "dialga-origin"
+  },
+  {
+    "label": "palkia-origin"
+  },
+  {
+    "label": "basculin-white-striped"
+  },
+  {
+    "label": "basculegion-female"
+  },
+  {
+    "label": "enamorus-therian"
+  },
+  {
+    "label": "tauros-paldea-combat-breed"
+  },
+  {
+    "label": "tauros-paldea-blaze-breed"
+  },
+  {
+    "label": "tauros-paldea-aqua-breed"
+  },
+  {
+    "label": "wooper-paldea"
+  },
+  {
+    "label": "oinkologne-female"
+  },
+  {
+    "label": "dudunsparce-three-segment"
+  },
+  {
+    "label": "palafin-hero"
+  },
+  {
+    "label": "maushold-family-of-three"
+  },
+  {
+    "label": "tatsugiri-droopy"
+  },
+  {
+    "label": "tatsugiri-stretchy"
+  },
+  {
+    "label": "squawkabilly-blue-plumage"
+  },
+  {
+    "label": "squawkabilly-yellow-plumage"
+  },
+  {
+    "label": "squawkabilly-white-plumage"
+  },
+  {
+    "label": "gimmighoul-roaming"
+  },
+  {
+    "label": "koraidon-limited-build"
+  },
+  {
+    "label": "koraidon-sprinting-build"
+  },
+  {
+    "label": "koraidon-swimming-build"
+  },
+  {
+    "label": "koraidon-gliding-build"
+  },
+  {
+    "label": "miraidon-low-power-mode"
+  },
+  {
+    "label": "miraidon-drive-mode"
+  },
+  {
+    "label": "miraidon-aquatic-mode"
+  },
+  {
+    "label": "miraidon-glide-mode"
+  },
+  {
+    "label": "ursaluna-bloodmoon"
+  },
+  {
+    "label": "ogerpon-wellspring-mask"
+  },
+  {
+    "label": "ogerpon-hearthflame-mask"
+  },
+  {
+    "label": "ogerpon-cornerstone-mask"
+  },
+  {
+    "label": "terapagos-terastal"
+  },
+  {
+    "label": "terapagos-stellar"
+  },
+  {
+    "label": "frillish-female"
+  },
+  {
+    "label": "jellicent-female"
+  }
+]

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1739471485054" clover="3.2.0">
+  <project timestamp="1739471485054" name="All files">
+    <metrics statements="202" coveredstatements="180" conditionals="96" coveredconditionals="76" methods="55" coveredmethods="37" elements="353" coveredelements="293" complexity="0" loc="202" ncloc="202" packages="13" files="16" classes="16"/>
+    <package name="components.pokemon-image">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="pokemon-image.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/components/pokemon-image/pokemon-image.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="38" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.single-pokemon.pokemon-description">
+      <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="pokemon-description.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/components/single-pokemon/pokemon-description/pokemon-description.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="11" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.single-pokemon.pokemon-evolutions">
+      <metrics statements="22" coveredstatements="21" conditionals="7" coveredconditionals="5" methods="4" coveredmethods="3"/>
+      <file name="pokemon-evolutions.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/components/single-pokemon/pokemon-evolutions/pokemon-evolutions.tsx">
+        <metrics statements="22" coveredstatements="21" conditionals="7" coveredconditionals="5" methods="4" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="16" count="30" type="stmt"/>
+        <line num="17" count="30" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="30" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="49" count="6" type="stmt"/>
+        <line num="50" count="6" type="stmt"/>
+        <line num="52" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="66" count="5" type="stmt"/>
+        <line num="68" count="5" type="stmt"/>
+        <line num="72" count="5" type="stmt"/>
+        <line num="98" count="15" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.single-pokemon.pokemon-type">
+      <metrics statements="10" coveredstatements="10" conditionals="19" coveredconditionals="14" methods="3" coveredmethods="3"/>
+      <file name="pokemon-type.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/components/single-pokemon/pokemon-type/pokemon-type.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="19" coveredconditionals="14" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="34" type="stmt"/>
+        <line num="9" count="34" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="46" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.single-pokemon.stat-chart">
+      <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <file name="stat-chart.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/components/single-pokemon/stat-chart/stat-chart.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="288" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="24" type="stmt"/>
+        <line num="21" count="24" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+        <line num="78" count="2" type="stmt"/>
+        <line num="79" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="32" coveredstatements="32" conditionals="20" coveredconditionals="17" methods="9" coveredmethods="9"/>
+      <file name="use-get-pokemon.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/hooks/use-get-pokemon.tsx">
+        <metrics statements="32" coveredstatements="32" conditionals="20" coveredconditionals="17" methods="9" coveredmethods="9"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="26" count="8" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="37" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="41" count="8" type="stmt"/>
+        <line num="48" count="8" type="stmt"/>
+        <line num="55" count="8" type="stmt"/>
+        <line num="56" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="57" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="61" count="8" type="stmt"/>
+        <line num="68" count="8" type="stmt"/>
+        <line num="69" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="70" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="74" count="8" type="stmt"/>
+        <line num="75" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="76" count="2" type="stmt"/>
+        <line num="81" count="8" type="stmt"/>
+        <line num="83" count="8" type="stmt"/>
+        <line num="84" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="85" count="3" type="stmt"/>
+        <line num="89" count="8" type="stmt"/>
+        <line num="90" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="91" count="2" type="stmt"/>
+        <line num="95" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.pokedex">
+      <metrics statements="29" coveredstatements="26" conditionals="25" coveredconditionals="19" methods="8" coveredmethods="6"/>
+      <file name="pokedex.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/pages/pokedex/pokedex.tsx">
+        <metrics statements="29" coveredstatements="26" conditionals="25" coveredconditionals="19" methods="8" coveredmethods="6"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="6" type="stmt"/>
+        <line num="45" count="6" type="stmt"/>
+        <line num="49" count="6" type="stmt"/>
+        <line num="51" count="6" type="stmt"/>
+        <line num="60" count="6" type="stmt"/>
+        <line num="69" count="6" type="stmt"/>
+        <line num="71" count="6" type="stmt"/>
+        <line num="73" count="6" type="stmt"/>
+        <line num="125" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="128" count="13" type="stmt"/>
+        <line num="130" count="1" type="stmt"/>
+        <line num="131" count="1" type="cond" truecount="2" falsecount="1"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="182" count="6" type="stmt"/>
+        <line num="184" count="6" type="stmt"/>
+        <line num="192" count="0" type="stmt"/>
+        <line num="255" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.single-pokemon">
+      <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="single-pokemon.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/pages/single-pokemon/single-pokemon.tsx">
+        <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="27" count="6" type="cond" truecount="3" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="8" coveredstatements="7" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="store.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/store/store.ts">
+        <metrics statements="8" coveredstatements="7" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="4" count="8" type="cond" truecount="2" falsecount="1"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="55" type="stmt"/>
+        <line num="17" count="55" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.slices.pokemon">
+      <metrics statements="17" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="3"/>
+      <file name="pokemon.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/store/slices/pokemon/pokemon.ts">
+        <metrics statements="17" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="3"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="31" count="9" type="stmt"/>
+        <line num="33" count="15" type="stmt"/>
+        <line num="34" count="15" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="75" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.server">
+      <metrics statements="19" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/test/server/index.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="4" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+      </file>
+      <file name="server-handlers.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/test/server/server-handlers.ts">
+        <metrics statements="15" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="4" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="45" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.utils">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/test/utils/index.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="16" count="13" type="stmt"/>
+        <line num="18" count="13" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="16" coveredstatements="16" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <file name="calculate-height.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/utils/calculate-height.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="16" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="10" count="14" type="stmt"/>
+      </file>
+      <file name="calculate-weight.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/utils/calculate-weight.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="20" type="stmt"/>
+        <line num="3" count="20" type="stmt"/>
+        <line num="5" count="20" type="cond" truecount="3" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="18" type="stmt"/>
+        <line num="10" count="18" type="stmt"/>
+      </file>
+      <file name="config.ts" path="/Users/aleksejmakovej/Desktop/test-task/pokemon-viewer/src/utils/config.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
