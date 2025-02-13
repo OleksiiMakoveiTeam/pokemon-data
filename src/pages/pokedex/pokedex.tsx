@@ -1,6 +1,6 @@
 import {
-  Autocomplete,
   Box,
+  Button,
   Card,
   Link,
   Pagination,
@@ -21,7 +21,6 @@ import {
 } from "@/store/slices/pokemon/pokemon";
 import { useState } from "react";
 
-import pokemonNames from "@/assets/pokemon-names.json";
 import { red } from "@mui/material/colors";
 import { URL_CONFIG } from "@/utils/config";
 import { PokemonImage } from "@/components/pokemon-image/pokemon-image";
@@ -47,8 +46,18 @@ export const PokedexPage = () => {
   // As an alternative we might want to use a debounce function
   // As well as use form to handle more inputs in the app
   const [searchTerm, setSearchTerm] = useState("");
+  const [inputValue, setInputValue] = useState<string>("");
 
   const isSearching = Boolean(searchTerm);
+
+  const handleSearch = () => {
+    setSearchTerm(inputValue);
+  };
+
+  const handleClearSearch = () => {
+    setSearchTerm("");
+    setInputValue("");
+  };
 
   // usually this paginated query would have a prop for searching specific pokemon
   // but since its not implemented in the api
@@ -111,32 +120,47 @@ export const PokedexPage = () => {
             display: "flex",
             justifyItems: "flex-start",
             alignItems: "center",
-            flexDirection: ["column", "row"],
+            flexDirection: ["column", "column", "column", "row"],
             gap: "20px",
           }}
         >
           <Box display="flex" flexDirection="column" px={["20px", 0]} gap={2}>
             <Typography>{t("PokedexPage.nameOrNumber")}</Typography>
-            <Box display="flex" alignItems={"center"}>
-              <Autocomplete
-                clearOnEscape
-                disablePortal
-                options={pokemonNames}
-                onChange={(_, val) => setSearchTerm(val?.label || "")}
-                sx={{ width: 300, bgcolor: "white", height: "100%" }}
-                renderInput={(params) => (
-                  <TextField
-                    onKeyDown={(e) => {
-                      const value = (e.target as HTMLInputElement).value;
-                      if (e.code.toLocaleLowerCase() === "enter" && value) {
-                        setSearchTerm(value);
-                      }
-                    }}
-                    placeholder={t("PokedexPage.searchPlaceholder")}
-                    {...params}
-                  />
-                )}
+            <Box
+              display="flex"
+              alignItems={"center"}
+              flexDirection={["column", "column", "row"]}
+              gap={2}
+            >
+              <TextField
+                sx={{ bgcolor: "white", width: [200, 300] }}
+                onChange={(e) => setInputValue(e.target.value)}
+                value={inputValue}
+                onKeyDown={(e) => {
+                  const value = (e.target as HTMLInputElement).value;
+                  if (e.code.toLocaleLowerCase() === "enter" && value) {
+                    setSearchTerm(value);
+                  }
+                }}
+                placeholder={t("PokedexPage.searchPlaceholder")}
               />
+              <Box
+                width={[200, 300]}
+                bgcolor="white"
+                justifyContent="space-evenly"
+                gap={2}
+                display="flex"
+                sx={{ gap: 1, px: 1, mx: 1 }}
+              >
+                <Button fullWidth onClick={handleSearch}>
+                  {t("PokedexPage.search")}
+                </Button>
+                {!!searchTerm && (
+                  <Button fullWidth onClick={handleClearSearch}>
+                    {t("PokedexPage.clearSearch")}
+                  </Button>
+                )}
+              </Box>
             </Box>
           </Box>
           <Box width={["70%", "50%"]}>
