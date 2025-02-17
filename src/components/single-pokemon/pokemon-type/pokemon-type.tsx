@@ -2,7 +2,7 @@ import { Stack, Typography, Chip } from "@mui/material";
 import { Pokemon } from "@/store/slices/pokemon/types";
 import { TYPE_COLOR_MAP } from "@/utils/config";
 import { useTranslation } from "react-i18next";
-import { isValidType } from "@/pages/single-pokemon/utils";
+import { isValidType } from "@/components/single-pokemon/utils";
 
 export const PokemonType = ({ pokemon }: { pokemon?: Pokemon }) => {
   const { t } = useTranslation();
