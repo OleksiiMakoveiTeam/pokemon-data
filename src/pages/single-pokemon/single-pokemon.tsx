@@ -4,17 +4,9 @@ import { PokemonType } from "@/components/single-pokemon/pokemon-type/pokemon-ty
 import { PokemonImage } from "@/components/pokemon-image/pokemon-image";
 import { StatChart } from "@/components/single-pokemon/stat-chart/stat-chart";
 import { useGetPokemon } from "@/hooks/use-get-pokemon";
-import { TYPE_COLOR_MAP } from "@/utils/config";
 import { useTranslation } from "react-i18next";
 import { useParams } from "react-router";
 import { PokemonEvolutions } from "@/components/single-pokemon/pokemon-evolutions/pokemon-evolutions";
-
-// Some guard fn to check if the type is valid
-export const isValidType = (
-  type: string,
-): type is keyof typeof TYPE_COLOR_MAP => {
-  return type in TYPE_COLOR_MAP;
-};
 
 export const SinglePokemonPage = () => {
   const { t } = useTranslation();

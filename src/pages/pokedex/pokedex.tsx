@@ -10,9 +10,7 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
-
 import Grid from "@mui/material/Grid2";
-
 import { useTranslation } from "react-i18next";
 import {
   useGetAllPokemonsQuery,
@@ -20,10 +18,10 @@ import {
   usePrefetch,
 } from "@/store/slices/pokemon/pokemon";
 import { useState } from "react";
-
 import { red } from "@mui/material/colors";
 import { URL_CONFIG } from "@/utils/config";
 import { PokemonImage } from "@/components/pokemon-image/pokemon-image";
+import { useCustomNavigate } from "@/hooks/use-navigate";
 
 const GridItem = styled(Paper)(({ theme }) => ({
   backgroundColor: "#fff",
@@ -41,6 +39,9 @@ const LIMIT = 25;
 
 export const PokedexPage = () => {
   const { t } = useTranslation();
+  const {
+    names: { singlePokemon },
+  } = useCustomNavigate();
   const [currentPage, setCurrentPage] = useState(1);
 
   // As an alternative we might want to use a debounce function
@@ -50,6 +51,7 @@ export const PokedexPage = () => {
 
   const isSearching = Boolean(searchTerm);
 
+  const { link } = singlePokemon;
   const handleSearch = () => {
     setSearchTerm(inputValue);
   };
@@ -103,6 +105,7 @@ export const PokedexPage = () => {
           </Typography>
         </Paper>
       </Stack>
+
       {/* Search component*/}
       <Stack
         display="flex"
@@ -220,7 +223,7 @@ export const PokedexPage = () => {
                         display: "flex",
                         flexDirection: "column",
                       }}
-                      href={"/single-pokemon/" + name}
+                      href={link({ id: name || "" })}
                     >
                       <img
                         style={{ marginInline: "auto" }}
@@ -252,7 +255,7 @@ export const PokedexPage = () => {
               }}
             >
               <GridItem>
-                <Link href={"/single-pokemon/" + pokemonData.name}>
+                <Link href={link({ id: pokemonData.name || "" })}>
                   <PokemonImage pokemon={pokemonData} />
 
                   <Typography>{pokemonData.name}</Typography>

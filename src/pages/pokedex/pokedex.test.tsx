@@ -16,12 +16,16 @@ jest.mock("react-i18next", () => ({
   useTranslation: jest.fn(),
 }));
 
+jest.mock("react-router", () => ({
+  useParams: jest.fn(() => ({ id: "pikachu" })),
+  useNavigate: jest.fn(),
+}));
+
 describe("PokedexPage Component", () => {
   beforeEach(() => {
     jest.clearAllMocks();
 
     (useTranslation as jest.Mock).mockReturnValue({
-      //@ts-ignore
       t: jest.fn((t) => t),
     });
   });
