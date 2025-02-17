@@ -29,5 +29,12 @@
     "noTypes": "No types found",
     "weaknesses": "Weaknesses",
     "noWeaknesses": "No weaknesses found"
+  },
+  "NotFoundPage": {
+    "message": "Page not found"
+  },
+  "NavLayout": {
+    "pokemon": "Pokémon",
+    "getBack": "Get back"
   }
 }
