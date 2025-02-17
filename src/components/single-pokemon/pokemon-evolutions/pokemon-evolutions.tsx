@@ -3,8 +3,9 @@ import { PokemonImage } from "@/components/pokemon-image/pokemon-image";
 import { useGetPokemonByNameQuery } from "@/store/slices/pokemon/pokemon";
 import { PokemonEvolutionChainDetails } from "@/store/slices/pokemon/types";
 import { PokemonType } from "../pokemon-type/pokemon-type";
-import { useNavigate, useParams } from "react-router";
+import { useParams } from "react-router";
 import { useTranslation } from "react-i18next";
+import { useCustomNavigate } from "@/hooks/use-navigate";
 
 const Evolution = ({
   name,
@@ -13,7 +14,13 @@ const Evolution = ({
   name?: string;
   isSelected: boolean;
 }) => {
-  const navigate = useNavigate();
+  const {
+    names: { singlePokemon },
+    navigate,
+  } = useCustomNavigate();
+
+  const { link } = singlePokemon;
+
   const { data: pokemon } = useGetPokemonByNameQuery(name ?? "", {
     skip: !name,
   });
@@ -21,7 +28,7 @@ const Evolution = ({
   return (
     <ListItem
       onClick={() => {
-        navigate(`/single-pokemon/${name}`);
+        navigate(link({ id: name || "" }));
       }}
       sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}
       aria-label={`Evolution ${name}`}
