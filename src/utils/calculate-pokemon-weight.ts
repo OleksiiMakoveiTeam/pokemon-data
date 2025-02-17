@@ -1,4 +1,4 @@
-export const calculateWeight = (weightInHg?: number | null) => {
+export const calculatePokemonWeight = (weightInHg?: number | null) => {
   const KG_PER_HG = 0.1; // 1 hectogram = 0.1 kg
   const LBS_PER_KG = 2.20462; // 1 kg = 2.20462 lbs
 

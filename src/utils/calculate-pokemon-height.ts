@@ -1,4 +1,4 @@
-export const calculateHeight = (height?: number | null) => {
+export const calculatePokemonHeight = (height?: number | null) => {
   if (height === undefined || height === null) {
     return "0ft 0in"; // Handle undefined or null input
   }
