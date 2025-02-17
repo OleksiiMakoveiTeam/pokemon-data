@@ -8,17 +8,9 @@ import {
   Pokemon,
   PokemonEvolutionChainDetails,
   PokemonSpeciesDetails,
-  PokemonTypeDetails,
 } from "@/store/slices/pokemon/types";
 import { useEffect, useMemo, useState } from "react";
-
-const getExtendedPokemonType = (type?: PokemonTypeDetails) => {
-  if (!type) return {};
-
-  return {
-    weakness: type?.damage_relations.double_damage_from.map((t) => t.name),
-  };
-};
+import { getExtendedPokemonType, getIdFromLink } from "./utils";
 
 export const useGetPokemon = (name?: Pokemon["name"]) => {
   const [pokemonData, setPokemonData] = useState<Pokemon | undefined>(void 0);
@@ -39,14 +31,14 @@ export const useGetPokemon = (name?: Pokemon["name"]) => {
   });
 
   const { data: type } = useGetPokemonTypeQuery(
-    pokemon?.types[0].type.url.split("/")[6] || "",
+    getIdFromLink(pokemon?.types[0].type.url),
     {
       skip: !pokemon,
     },
   );
 
   const { data: species } = useGetPokemonSpeciesQuery(
-    pokemon?.species?.url?.split("/")[6] || "",
+    getIdFromLink(pokemon?.species?.url),
     {
       skip: !pokemon,
     },
@@ -54,7 +46,7 @@ export const useGetPokemon = (name?: Pokemon["name"]) => {
 
   const evolutionChainId = useMemo(() => {
     if (speciesData) {
-      return Number(speciesData?.evolution_chain?.url?.split("/")[6]) ?? void 0;
+      return Number(getIdFromLink(speciesData?.evolution_chain?.url)) ?? void 0;
     }
   }, [speciesData]);
 
